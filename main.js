@@ -6,3 +6,4 @@ function add(x) {
 }
 
 console.log(add(x));
+// new keyord 
