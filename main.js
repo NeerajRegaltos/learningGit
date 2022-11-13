@@ -7,3 +7,5 @@ function add(x) {
 
 console.log(add(x));
 // new keyord 
+
+console.log(5-4);
